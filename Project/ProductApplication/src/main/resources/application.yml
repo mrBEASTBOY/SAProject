@@ -1,0 +1,10 @@
+logging:
+  file:
+    name: D:/elk/product-elk.log
+
+server:
+  port: 8091
+
+spring:
+  application:
+    name: Product Application
